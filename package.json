@@ -2,7 +2,7 @@
   "name": "chat_js",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vladislav-main.githubgit status.io/chat-js-1",
+  "homepage": "https://vladislav-main.github.io/react-app-chat",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
