@@ -7,6 +7,7 @@ export const Conversation = (props) => {
   const { dialog_id } = props;
 
   const users = useNotificationStore((state) => state.users);
+
   const [currentMessageList, setCurrentMessageList] = useState([]);
 
   const messageList = useNotificationStore((state) => state.messageList);
